@@ -1,8 +1,10 @@
-# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
+# AI-SAAS Tools for small businesses.
+
+## Main Technologies - Next.js 13, React, Tailwind, Prisma, Stripe 
 
 ### Prerequisites 
 
-A Web app designed as SAAS tools to help small businesses 
+A one-stop service Web app designed as SAAS tools to help small businesses ans software house generate content with code, Image, music, video and communicate with AI.
 
 Features:
 
