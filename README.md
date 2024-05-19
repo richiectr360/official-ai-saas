@@ -2,9 +2,19 @@
 
 ## Main Technologies - Next.js 13, React, Tailwind, Prisma, Stripe 
 
-### Prerequisites 
+### Overview
 
 A one-stop service Web app designed as SAAS tools to help small businesses ans software house generate content with code, Image, music, video and communicate with AI.
+
+### Screenshots
+
+![Image Generation](screenshots/image-generation.png)
+![Video Generation](screenshots/video-generation.png)
+![Conversation](screenshots/conversation.png)
+![Music Generation](screenshots/music-generation.png)
+![Code Generation](screenshots/code-generation.png)
+![Settings](screenshots/settings.png)
+![Upgrade](screenshots/upgrade.png)
 
 Features:
 
@@ -34,7 +44,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ai-saas.git
+git clone https://github.com/richiectr360/official-ai-saas
 ```
 
 ### Install packages
