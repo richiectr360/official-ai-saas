@@ -1,5 +1,8 @@
 # Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
 
+### Prerequisites 
+
+A Web app designed as SAAS tools to help small businesses 
 
 Features:
 
@@ -83,4 +86,4 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
-# official-ai-saas
+
