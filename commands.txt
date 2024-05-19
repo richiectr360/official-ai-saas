@@ -1,0 +1,40 @@
+git add README.md
+git commit -m "first commit"
+git push -u origin main
+
+npx create-next-app@latest ai-saas --typescript --tailwind --eslint
+npx shadcn-ui@latest init
+
+npx shadcn-ui@latest add button
+npx shadcn-ui@latest add progress
+npx shadcn-ui@latest add form
+npx shadcn-ui@latest add input
+npx shadcn-ui@latest add avatar
+npx shadcn-ui@latest add select
+npx shadcn-ui@latest add badge
+
+
+npm i react-markdown
+
+
+npm install @clerk/nextjs
+
+npm i -D prisma
+npx prisma init
+npx prisma generate --allow-no-models
+npx prisma studio
+
+npx prisma migrate reset
+
+npx prisma db push
+
+https://github.com/prisma/studio/issues/703
+
+npm i stripe
+npm i replicate
+npm i react-hot-toast
+npm i crisp-sdk-web
+npm i typewriter-effect
+
+
+npm run lint
